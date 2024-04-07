@@ -49,12 +49,5 @@
     <li>Use Ctrl+C to exit the program.</li>
 </ul>
 
- <h2>Screenshot 1</h2>
-       ![WhatsApp Image 2024-04-07 at 13 37 36_5f66bcd1](https://github.com/mlokesh4-dc/DeepWeeb-Guardian/assets/137030384/73797458-fb63-4dd8-9ca1-562002944dd0)
-
-
- <h2>Screenshot 2</h2>
-       ![image](https://github.com/mlokesh4-dc/DeepWeeb-Guardian/assets/137030384/7b14e4f3-d8fc-4333-a853-5bda72c24090)
-
 </body>
 </html>
